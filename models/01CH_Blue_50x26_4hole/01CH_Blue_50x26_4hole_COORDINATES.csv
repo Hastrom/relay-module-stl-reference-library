@@ -1,0 +1,14 @@
+id,feature,x_mm,y_mm,z_from_pcb_bottom_mm,length_mm,width_mm,height_mm,evidence
+01CH_Blue_50x26_4hole,K1_SRD,25.0,13.0,1.6,15.5,19.1,15.3,datasheet relay body dimensions; module placement reconstructed
+01CH_Blue_50x26_4hole,J_OUT,43.1,13.0,1.6,9.5,15.24,10.8,footprint centers reconstructed; pitch nominal 5.08 mm
+01CH_Blue_50x26_4hole,J_OUT_screw1,43.1,7.92,12.4,3.4,3.4,0.35,approx screw-head envelope
+01CH_Blue_50x26_4hole,J_OUT_screw2,43.1,13.0,12.4,3.4,3.4,0.35,approx screw-head envelope
+01CH_Blue_50x26_4hole,J_OUT_screw3,43.1,18.08,12.4,3.4,3.4,0.35,approx screw-head envelope
+01CH_Blue_50x26_4hole,U1,10.8,17.6,1.6,4.6,6.5,3.6,PC817 type package dimensions approximate; placement reconstructed
+01CH_Blue_50x26_4hole,LED1,10.2,24.0,1.6,2.0,2.0,1.5,representative LED envelope; placement reconstructed
+01CH_Blue_50x26_4hole,R1,13.0,7.0,1.6,2.0,1.15,0.65,representative SMD envelope; placement reconstructed
+01CH_Blue_50x26_4hole,J_IN_insulator,7.0,7.0,1.6,2.54,7.62,2.5,reconstructed connector placement; 2.54 pitch is standard
+01CH_Blue_50x26_4hole,J_IN_pin1,7.0,4.46,4.1,0.64,0.64,5.3,"2.54 mm pin pitch, header placement approximate"
+01CH_Blue_50x26_4hole,J_IN_pin2,7.0,7.0,4.1,0.64,0.64,5.3,"2.54 mm pin pitch, header placement approximate"
+01CH_Blue_50x26_4hole,J_IN_pin3,7.0,9.54,4.1,0.64,0.64,5.3,"2.54 mm pin pitch, header placement approximate"
+01CH_Blue_50x26_4hole,Q1,12.0,11.0,1.6,3.0,3.0,4.5,representative TO92 envelope; placement reconstructed

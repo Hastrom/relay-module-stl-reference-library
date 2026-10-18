@@ -1,0 +1,7 @@
+id,feature,x_mm,y_mm,z_from_pcb_bottom_mm,length_mm,width_mm,height_mm,evidence
+01CH_Grove_Relay_42x24,K1_relay,23.8,12,1.6,19.5,15.2,15.5,datasheet relay body dimensions; module placement reconstructed
+01CH_Grove_Relay_42x24,J_OUT,9.0,12,1.6,9.5,10.16,10.8,footprint centers reconstructed; pitch nominal 5.08 mm
+01CH_Grove_Relay_42x24,J_OUT_screw1,9.0,9.46,12.4,3.4,3.4,0.35,approx screw-head envelope
+01CH_Grove_Relay_42x24,J_OUT_screw2,9.0,14.54,12.4,3.4,3.4,0.35,approx screw-head envelope
+01CH_Grove_Relay_42x24,GROVE_4PIN_SOCKET,38,12,1.6,7.0,9.0,6.0,connector mechanical envelope approximate
+01CH_Grove_Relay_42x24,LED1,13.0,22.0,1.6,2.0,2.0,1.5,representative LED envelope; placement reconstructed

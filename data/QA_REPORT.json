@@ -1,0 +1,178 @@
+[
+  {
+    "id": "01CH_Blue_50x26_4hole",
+    "STL_board_is_watertight": true,
+    "STL_assembly_is_watertight": true,
+    "hole_vs_component_collision_count": 0,
+    "body_vs_body_overlap_count": 0,
+    "hole_violations": [],
+    "body_overlaps": [],
+    "bounding_box_mm": [
+      50.0,
+      26.0,
+      1.6
+    ],
+    "hole_centers_count": 4,
+    "limitation": "No manufacturer PCB placement data; physical locations other than documented mounting pitches are reconstructed"
+  },
+  {
+    "id": "01CH_Blue_50x26_2hole",
+    "STL_board_is_watertight": true,
+    "STL_assembly_is_watertight": true,
+    "hole_vs_component_collision_count": 0,
+    "body_vs_body_overlap_count": 0,
+    "hole_violations": [],
+    "body_overlaps": [],
+    "bounding_box_mm": [
+      50.0,
+      26.0,
+      1.6
+    ],
+    "hole_centers_count": 2,
+    "limitation": "No manufacturer PCB placement data; physical locations other than documented mounting pitches are reconstructed"
+  },
+  {
+    "id": "01CH_Red_HL_50p8x25p6",
+    "STL_board_is_watertight": true,
+    "STL_assembly_is_watertight": true,
+    "hole_vs_component_collision_count": 0,
+    "body_vs_body_overlap_count": 0,
+    "hole_violations": [],
+    "body_overlaps": [],
+    "bounding_box_mm": [
+      50.8,
+      25.6,
+      1.6
+    ],
+    "hole_centers_count": 4,
+    "limitation": "No manufacturer PCB placement data; physical locations other than documented mounting pitches are reconstructed"
+  },
+  {
+    "id": "01CH_KY019_HW482_34x27",
+    "STL_board_is_watertight": true,
+    "STL_assembly_is_watertight": true,
+    "hole_vs_component_collision_count": 0,
+    "body_vs_body_overlap_count": 0,
+    "hole_violations": [],
+    "body_overlaps": [],
+    "bounding_box_mm": [
+      34.0,
+      27.0,
+      1.6
+    ],
+    "hole_centers_count": 2,
+    "limitation": "No manufacturer PCB placement data; physical locations other than documented mounting pitches are reconstructed"
+  },
+  {
+    "id": "01CH_Slim_40x18",
+    "STL_board_is_watertight": true,
+    "STL_assembly_is_watertight": true,
+    "hole_vs_component_collision_count": 0,
+    "body_vs_body_overlap_count": 0,
+    "hole_violations": [],
+    "body_overlaps": [],
+    "bounding_box_mm": [
+      40.0,
+      18.0,
+      1.6
+    ],
+    "hole_centers_count": 0,
+    "limitation": "No manufacturer PCB placement data; physical locations other than documented mounting pitches are reconstructed"
+  },
+  {
+    "id": "01CH_Grove_Relay_42x24",
+    "STL_board_is_watertight": true,
+    "STL_assembly_is_watertight": true,
+    "hole_vs_component_collision_count": 0,
+    "body_vs_body_overlap_count": 0,
+    "hole_violations": [],
+    "body_overlaps": [],
+    "bounding_box_mm": [
+      42.0,
+      24.0,
+      1.6
+    ],
+    "hole_centers_count": 3,
+    "limitation": "No manufacturer PCB placement data; physical locations other than documented mounting pitches are reconstructed"
+  },
+  {
+    "id": "02CH_Opto_50x41",
+    "STL_board_is_watertight": true,
+    "STL_assembly_is_watertight": true,
+    "hole_vs_component_collision_count": 0,
+    "body_vs_body_overlap_count": 0,
+    "hole_violations": [],
+    "body_overlaps": [],
+    "bounding_box_mm": [
+      50.0,
+      41.0,
+      1.6
+    ],
+    "hole_centers_count": 4,
+    "limitation": "No manufacturer PCB placement data; physical locations other than documented mounting pitches are reconstructed"
+  },
+  {
+    "id": "04CH_Opto_75x55",
+    "STL_board_is_watertight": true,
+    "STL_assembly_is_watertight": true,
+    "hole_vs_component_collision_count": 0,
+    "body_vs_body_overlap_count": 0,
+    "hole_violations": [],
+    "body_overlaps": [],
+    "bounding_box_mm": [
+      75.0,
+      55.0,
+      1.6
+    ],
+    "hole_centers_count": 4,
+    "limitation": "No manufacturer PCB placement data; physical locations other than documented mounting pitches are reconstructed"
+  },
+  {
+    "id": "06CH_Opto_103x53",
+    "STL_board_is_watertight": true,
+    "STL_assembly_is_watertight": true,
+    "hole_vs_component_collision_count": 0,
+    "body_vs_body_overlap_count": 0,
+    "hole_violations": [],
+    "body_overlaps": [],
+    "bounding_box_mm": [
+      103.0,
+      53.0,
+      1.6
+    ],
+    "hole_centers_count": 4,
+    "limitation": "No manufacturer PCB placement data; physical locations other than documented mounting pitches are reconstructed"
+  },
+  {
+    "id": "08CH_Opto_138x56",
+    "STL_board_is_watertight": true,
+    "STL_assembly_is_watertight": true,
+    "hole_vs_component_collision_count": 0,
+    "body_vs_body_overlap_count": 0,
+    "hole_violations": [],
+    "body_overlaps": [],
+    "bounding_box_mm": [
+      138.0,
+      56.0,
+      1.6
+    ],
+    "hole_centers_count": 4,
+    "limitation": "No manufacturer PCB placement data; physical locations other than documented mounting pitches are reconstructed"
+  },
+  {
+    "id": "16CH_Opto_180x90",
+    "STL_board_is_watertight": true,
+    "STL_assembly_is_watertight": true,
+    "hole_vs_component_collision_count": 0,
+    "body_vs_body_overlap_count": 0,
+    "hole_violations": [],
+    "body_overlaps": [],
+    "bounding_box_mm": [
+      180.0,
+      90.0,
+      1.6
+    ],
+    "hole_centers_count": 4,
+    "limitation": "No manufacturer PCB placement data; physical locations other than documented mounting pitches are reconstructed"
+  }
+]

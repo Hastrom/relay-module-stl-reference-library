@@ -1,0 +1,12 @@
+id,feature,x_mm,y_mm,z_from_pcb_bottom_mm,length_mm,width_mm,height_mm,evidence
+01CH_KY019_HW482_34x27,K1_JQC,20.0,13.7,1.6,19.1,15.5,15.3,datasheet relay body dimensions; module placement reconstructed
+01CH_KY019_HW482_34x27,J_OUT,5.6,13.5,1.6,9.5,15.24,10.8,footprint centers reconstructed; pitch nominal 5.08 mm
+01CH_KY019_HW482_34x27,J_OUT_screw1,5.6,8.42,12.4,3.4,3.4,0.35,approx screw-head envelope
+01CH_KY019_HW482_34x27,J_OUT_screw2,5.6,13.5,12.4,3.4,3.4,0.35,approx screw-head envelope
+01CH_KY019_HW482_34x27,J_OUT_screw3,5.6,18.58,12.4,3.4,3.4,0.35,approx screw-head envelope
+01CH_KY019_HW482_34x27,J_IN_insulator,31.9,13.0,1.6,2.54,7.62,2.5,reconstructed connector placement; 2.54 pitch is standard
+01CH_KY019_HW482_34x27,J_IN_pin1,31.9,10.46,4.1,0.64,0.64,5.1,"2.54 mm pin pitch, header placement approximate"
+01CH_KY019_HW482_34x27,J_IN_pin2,31.9,13.0,4.1,0.64,0.64,5.1,"2.54 mm pin pitch, header placement approximate"
+01CH_KY019_HW482_34x27,J_IN_pin3,31.9,15.54,4.1,0.64,0.64,5.1,"2.54 mm pin pitch, header placement approximate"
+01CH_KY019_HW482_34x27,LED1,25.6,23.9,1.6,2.0,2.0,1.5,representative LED envelope; placement reconstructed
+01CH_KY019_HW482_34x27,Q1,14.5,23.7,1.6,3.0,3.0,4.5,representative TO92 envelope; placement reconstructed

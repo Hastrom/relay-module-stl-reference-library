@@ -1,0 +1,438 @@
+[
+  {
+    "id": "01CH_Blue_50x26_4hole",
+    "channels": 1,
+    "board_mm": [
+      50.0,
+      26.0,
+      1.6
+    ],
+    "hole_centers_mm": [
+      [
+        2.75,
+        2.75
+      ],
+      [
+        47.25,
+        2.75
+      ],
+      [
+        2.75,
+        23.25
+      ],
+      [
+        47.25,
+        23.25
+      ]
+    ],
+    "hole_diameter_mm": 3.1,
+    "mounting_claim": "documented 44.5 x 20.5 pitch",
+    "pcb_claim": "listed 50 x 26",
+    "component_position_claim": "RECONSTRUCTED, NOT PCB CAD VERIFIED",
+    "component_height_claim": "relay datasheet body envelope, other parts representative",
+    "source": "https://manuals.plus/asin/B079FJSYGY",
+    "module_style": "opto_ch01",
+    "assembly_extents_xyz_mm": [
+      50.0,
+      26.0,
+      16.9
+    ],
+    "pcb_watertight": true,
+    "assembly_watertight": true,
+    "triangle_count_assembly": 1988,
+    "overhang_notes": "Terminals/components may overhang PCB; envelope independent of wiring clearance"
+  },
+  {
+    "id": "01CH_Blue_50x26_2hole",
+    "channels": 1,
+    "board_mm": [
+      50,
+      26,
+      1.6
+    ],
+    "hole_centers_mm": [
+      [
+        2.75,
+        2.75
+      ],
+      [
+        47.25,
+        23.25
+      ]
+    ],
+    "hole_diameter_mm": 3.1,
+    "mounting_claim": "hole locations reconstructed; only TWO holes documented",
+    "pcb_claim": "approx. 50 x 26",
+    "component_position_claim": "RECONSTRUCTED, NOT PCB CAD VERIFIED",
+    "component_height_claim": "relay datasheet body envelope, other parts representative",
+    "source": "https://shillehtek.com/blogs/shillehtek-product-manuals/1-channel-5v-relay-module-manual",
+    "module_style": "opto_ch01",
+    "assembly_extents_xyz_mm": [
+      50.0,
+      26.0,
+      16.9
+    ],
+    "pcb_watertight": true,
+    "assembly_watertight": true,
+    "triangle_count_assembly": 1468,
+    "overhang_notes": "Terminals/components may overhang PCB; envelope independent of wiring clearance"
+  },
+  {
+    "id": "01CH_Red_HL_50p8x25p6",
+    "channels": 1,
+    "board_mm": [
+      50.8,
+      25.6,
+      1.6
+    ],
+    "hole_centers_mm": [
+      [
+        3.2,
+        3.1
+      ],
+      [
+        47.6,
+        3.1
+      ],
+      [
+        3.2,
+        22.5
+      ],
+      [
+        47.6,
+        22.5
+      ]
+    ],
+    "hole_diameter_mm": 3.0,
+    "mounting_claim": "hole centers estimated from dimensioned marketplace illustration; NOT manufacturer drill data",
+    "pcb_claim": "50.8 x 25.6 from dimensioned module drawing/photo",
+    "component_position_claim": "RECONSTRUCTED, NOT PCB CAD VERIFIED",
+    "component_height_claim": "relay datasheet body envelope, other parts representative",
+    "source": "https://www.techmaze.ae/shop/99190408-relay-1-channel-module-board-5v-with-optocoupler-red-highlow-26104",
+    "module_style": "red_dual_terminal",
+    "assembly_extents_xyz_mm": [
+      50.8,
+      25.6,
+      16.9
+    ],
+    "pcb_watertight": true,
+    "assembly_watertight": true,
+    "triangle_count_assembly": 2152,
+    "overhang_notes": "Terminals/components may overhang PCB; envelope independent of wiring clearance"
+  },
+  {
+    "id": "01CH_KY019_HW482_34x27",
+    "channels": 1,
+    "board_mm": [
+      34,
+      27,
+      1.6
+    ],
+    "hole_centers_mm": [
+      [
+        3.2,
+        3.2
+      ],
+      [
+        30.8,
+        23.8
+      ]
+    ],
+    "hole_diameter_mm": 3.0,
+    "mounting_claim": "estimated positions, nominal diameter",
+    "pcb_claim": "documented 34 x 27",
+    "component_position_claim": "RECONSTRUCTED, NOT PCB CAD VERIFIED",
+    "component_height_claim": "relay datasheet body envelope, other parts representative",
+    "source": "https://community.element14.com/technologies/embedded/w/documents/4460/ky-019-relay-board-documentation",
+    "module_style": "compact_ky019",
+    "assembly_extents_xyz_mm": [
+      34.0,
+      27.0,
+      16.9
+    ],
+    "pcb_watertight": true,
+    "assembly_watertight": true,
+    "triangle_count_assembly": 1320,
+    "overhang_notes": "Terminals/components may overhang PCB; envelope independent of wiring clearance"
+  },
+  {
+    "id": "01CH_Slim_40x18",
+    "channels": 1,
+    "board_mm": [
+      40,
+      18,
+      1.6
+    ],
+    "hole_centers_mm": [],
+    "hole_diameter_mm": 3.0,
+    "mounting_claim": "mounting holes deliberately omitted; product spec does not establish drilling coordinates",
+    "pcb_claim": "documented 40 x 18",
+    "component_position_claim": "RECONSTRUCTED, NOT PCB CAD VERIFIED",
+    "component_height_claim": "relay datasheet body envelope, other parts representative",
+    "source": "https://docs.sunfounder.com/projects/vincent-kit/en/latest/components/component_relay_module.html",
+    "module_style": "slim_no_opto",
+    "assembly_extents_xyz_mm": [
+      40.0,
+      18.0,
+      16.9
+    ],
+    "pcb_watertight": true,
+    "assembly_watertight": true,
+    "triangle_count_assembly": 636,
+    "overhang_notes": "Terminals/components may overhang PCB; envelope independent of wiring clearance"
+  },
+  {
+    "id": "01CH_Grove_Relay_42x24",
+    "channels": 1,
+    "board_mm": [
+      42,
+      24,
+      1.6
+    ],
+    "hole_centers_mm": [
+      [
+        1.7,
+        12.0
+      ],
+      [
+        35.8,
+        3.1
+      ],
+      [
+        35.8,
+        20.9
+      ]
+    ],
+    "hole_diameter_mm": 2.8,
+    "mounting_claim": "reconstructed from photos; NOT confirmed drill data",
+    "pcb_claim": "documented bounding box 42 x 24",
+    "component_position_claim": "RECONSTRUCTED, NOT PCB CAD VERIFIED",
+    "component_height_claim": "relay datasheet body envelope, other parts representative",
+    "source": "https://wiki.seeedstudio.com/Grove-Relay/",
+    "module_style": "grove",
+    "assembly_extents_xyz_mm": [
+      42.0,
+      24.0,
+      17.1
+    ],
+    "pcb_watertight": true,
+    "assembly_watertight": true,
+    "triangle_count_assembly": 1364,
+    "overhang_notes": "Terminals/components may overhang PCB; envelope independent of wiring clearance"
+  },
+  {
+    "id": "02CH_Opto_50x41",
+    "channels": 2,
+    "board_mm": [
+      50,
+      41,
+      1.6
+    ],
+    "hole_centers_mm": [
+      [
+        2.75,
+        2.75
+      ],
+      [
+        47.25,
+        2.75
+      ],
+      [
+        2.75,
+        38.25
+      ],
+      [
+        47.25,
+        38.25
+      ]
+    ],
+    "hole_diameter_mm": 3.1,
+    "mounting_claim": "documented 44.5 x 35.5 pitch",
+    "pcb_claim": "documented 50 x 41",
+    "component_position_claim": "RECONSTRUCTED, NOT PCB CAD VERIFIED",
+    "component_height_claim": "relay datasheet body envelope, other parts representative",
+    "source": "https://manuals.plus/asin/B079FGPC9Y",
+    "module_style": "multiple",
+    "assembly_extents_xyz_mm": [
+      50.0,
+      41.0,
+      16.9
+    ],
+    "pcb_watertight": true,
+    "assembly_watertight": true,
+    "triangle_count_assembly": 2456,
+    "overhang_notes": "Terminals/components may overhang PCB; envelope independent of wiring clearance"
+  },
+  {
+    "id": "04CH_Opto_75x55",
+    "channels": 4,
+    "board_mm": [
+      75,
+      55,
+      1.6
+    ],
+    "hole_centers_mm": [
+      [
+        3.5,
+        3.5
+      ],
+      [
+        71.5,
+        3.5
+      ],
+      [
+        3.5,
+        51.5
+      ],
+      [
+        71.5,
+        51.5
+      ]
+    ],
+    "hole_diameter_mm": 3.0,
+    "mounting_claim": "documented 68 x 48 pitch",
+    "pcb_claim": "documented 75 x 55",
+    "component_position_claim": "RECONSTRUCTED, NOT PCB CAD VERIFIED",
+    "component_height_claim": "relay datasheet body envelope, other parts representative",
+    "source": "https://kamami.pl/en/modules-with-power-outputs/1202350-4-channel-relay-module-with-optical-5902186334021.html",
+    "module_style": "multiple",
+    "assembly_extents_xyz_mm": [
+      75.0,
+      55.0,
+      16.9
+    ],
+    "pcb_watertight": true,
+    "assembly_watertight": true,
+    "triangle_count_assembly": 3880,
+    "overhang_notes": "Terminals/components may overhang PCB; envelope independent of wiring clearance"
+  },
+  {
+    "id": "06CH_Opto_103x53",
+    "channels": 6,
+    "board_mm": [
+      103,
+      53,
+      1.6
+    ],
+    "hole_centers_mm": [
+      [
+        3,
+        3
+      ],
+      [
+        100,
+        3
+      ],
+      [
+        3,
+        50
+      ],
+      [
+        100,
+        50
+      ]
+    ],
+    "hole_diameter_mm": 3.0,
+    "mounting_claim": "estimated 4 corners; verify physical board",
+    "pcb_claim": "listed 103 x 53 but clone variability",
+    "component_position_claim": "RECONSTRUCTED, NOT PCB CAD VERIFIED",
+    "component_height_claim": "relay datasheet body envelope, other parts representative",
+    "source": "https://deluxcnc.eu/en/relay/249-6-channel-relay-board-module-5v.html",
+    "module_style": "multiple",
+    "assembly_extents_xyz_mm": [
+      103.0,
+      53.0,
+      16.9
+    ],
+    "pcb_watertight": true,
+    "assembly_watertight": true,
+    "triangle_count_assembly": 4972,
+    "overhang_notes": "Terminals/components may overhang PCB; envelope independent of wiring clearance"
+  },
+  {
+    "id": "08CH_Opto_138x56",
+    "channels": 8,
+    "board_mm": [
+      138,
+      56,
+      1.6
+    ],
+    "hole_centers_mm": [
+      [
+        3,
+        3
+      ],
+      [
+        135,
+        3
+      ],
+      [
+        3,
+        53
+      ],
+      [
+        135,
+        53
+      ]
+    ],
+    "hole_diameter_mm": 3.0,
+    "mounting_claim": "documented 132 x 50 pitch",
+    "pcb_claim": "documented 138 x 56",
+    "component_position_claim": "RECONSTRUCTED, NOT PCB CAD VERIFIED",
+    "component_height_claim": "relay datasheet body envelope, other parts representative",
+    "source": "https://distancionka.com/ua/catalog/radiokomponenty/rele/modul-rele-8-mi-kanalnyy-5v/",
+    "module_style": "multiple",
+    "assembly_extents_xyz_mm": [
+      138.0,
+      56.0,
+      16.9
+    ],
+    "pcb_watertight": true,
+    "assembly_watertight": true,
+    "triangle_count_assembly": 6428,
+    "overhang_notes": "Terminals/components may overhang PCB; envelope independent of wiring clearance"
+  },
+  {
+    "id": "16CH_Opto_180x90",
+    "channels": 16,
+    "board_mm": [
+      180,
+      90,
+      1.6
+    ],
+    "hole_centers_mm": [
+      [
+        4,
+        4
+      ],
+      [
+        176,
+        4
+      ],
+      [
+        4,
+        86
+      ],
+      [
+        176,
+        86
+      ]
+    ],
+    "hole_diameter_mm": 3.0,
+    "mounting_claim": "hole diameter listed ~3; XY positions estimated",
+    "pcb_claim": "documented 180 x 90",
+    "component_position_claim": "RECONSTRUCTED, NOT PCB CAD VERIFIED",
+    "component_height_claim": "relay datasheet body envelope, other parts representative",
+    "source": "https://www.berry-base.pro/en/5v-16-channel-relay-module",
+    "module_style": "multiple",
+    "assembly_extents_xyz_mm": [
+      180.0,
+      90.0,
+      16.9
+    ],
+    "pcb_watertight": true,
+    "assembly_watertight": true,
+    "triangle_count_assembly": 12252,
+    "overhang_notes": "Terminals/components may overhang PCB; envelope independent of wiring clearance"
+  }
+]

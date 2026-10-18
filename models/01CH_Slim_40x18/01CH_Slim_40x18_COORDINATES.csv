@@ -1,0 +1,12 @@
+id,feature,x_mm,y_mm,z_from_pcb_bottom_mm,length_mm,width_mm,height_mm,evidence
+01CH_Slim_40x18,K1_SRD,20.5,9,1.6,19.1,15.5,15.3,datasheet relay body dimensions; module placement reconstructed
+01CH_Slim_40x18,J_OUT,35.0,9,1.6,9.5,15.24,10.8,footprint centers reconstructed; pitch nominal 5.08 mm
+01CH_Slim_40x18,J_OUT_screw1,35.0,3.92,12.4,3.4,3.4,0.35,approx screw-head envelope
+01CH_Slim_40x18,J_OUT_screw2,35.0,9.0,12.4,3.4,3.4,0.35,approx screw-head envelope
+01CH_Slim_40x18,J_OUT_screw3,35.0,14.08,12.4,3.4,3.4,0.35,approx screw-head envelope
+01CH_Slim_40x18,J_IN_insulator,4.5,8.9,1.6,2.54,7.62,2.5,reconstructed connector placement; 2.54 pitch is standard
+01CH_Slim_40x18,J_IN_pin1,4.5,6.36,4.1,0.64,0.64,5.3,"2.54 mm pin pitch, header placement approximate"
+01CH_Slim_40x18,J_IN_pin2,4.5,8.9,4.1,0.64,0.64,5.3,"2.54 mm pin pitch, header placement approximate"
+01CH_Slim_40x18,J_IN_pin3,4.5,11.44,4.1,0.64,0.64,5.3,"2.54 mm pin pitch, header placement approximate"
+01CH_Slim_40x18,LED1,9.1,16.0,1.6,2.0,2.0,1.5,representative LED envelope; placement reconstructed
+01CH_Slim_40x18,R1,9.1,2.0,1.6,2.0,1.15,0.65,representative SMD envelope; placement reconstructed

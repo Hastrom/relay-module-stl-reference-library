@@ -1,0 +1,20 @@
+id,feature,x_mm,y_mm,z_from_pcb_bottom_mm,length_mm,width_mm,height_mm,evidence
+02CH_Opto_50x41,K1,26.0,11.0,1.6,19.1,15.5,15.3,datasheet relay body dimensions; module placement reconstructed
+02CH_Opto_50x41,J_OUT1,40.5,11.0,1.6,9.5,15.24,10.8,footprint centers reconstructed; pitch nominal 5.08 mm
+02CH_Opto_50x41,J_OUT1_screw1,40.5,5.92,12.4,3.4,3.4,0.35,approx screw-head envelope
+02CH_Opto_50x41,J_OUT1_screw2,40.5,11.0,12.4,3.4,3.4,0.35,approx screw-head envelope
+02CH_Opto_50x41,J_OUT1_screw3,40.5,16.08,12.4,3.4,3.4,0.35,approx screw-head envelope
+02CH_Opto_50x41,U1,11.0,11.0,1.6,4.6,6.5,3.6,PC817 type package dimensions approximate; placement reconstructed
+02CH_Opto_50x41,LED1,11.0,5.0,1.6,2.0,2.0,1.5,representative LED envelope; placement reconstructed
+02CH_Opto_50x41,K2,26.0,30.0,1.6,19.1,15.5,15.3,datasheet relay body dimensions; module placement reconstructed
+02CH_Opto_50x41,J_OUT2,40.5,30.0,1.6,9.5,15.24,10.8,footprint centers reconstructed; pitch nominal 5.08 mm
+02CH_Opto_50x41,J_OUT2_screw1,40.5,24.92,12.4,3.4,3.4,0.35,approx screw-head envelope
+02CH_Opto_50x41,J_OUT2_screw2,40.5,30.0,12.4,3.4,3.4,0.35,approx screw-head envelope
+02CH_Opto_50x41,J_OUT2_screw3,40.5,35.08,12.4,3.4,3.4,0.35,approx screw-head envelope
+02CH_Opto_50x41,U2,11.0,30.0,1.6,4.6,6.5,3.6,PC817 type package dimensions approximate; placement reconstructed
+02CH_Opto_50x41,LED2,11.0,24.0,1.6,2.0,2.0,1.5,representative LED envelope; placement reconstructed
+02CH_Opto_50x41,J_IN_insulator,6.3,20.5,1.6,2.54,10.16,2.5,reconstructed connector placement; 2.54 pitch is standard
+02CH_Opto_50x41,J_IN_pin1,6.3,16.69,4.1,0.64,0.64,5.3,"2.54 mm pin pitch, header placement approximate"
+02CH_Opto_50x41,J_IN_pin2,6.3,19.23,4.1,0.64,0.64,5.3,"2.54 mm pin pitch, header placement approximate"
+02CH_Opto_50x41,J_IN_pin3,6.3,21.77,4.1,0.64,0.64,5.3,"2.54 mm pin pitch, header placement approximate"
+02CH_Opto_50x41,J_IN_pin4,6.3,24.31,4.1,0.64,0.64,5.3,"2.54 mm pin pitch, header placement approximate"

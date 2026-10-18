@@ -1,0 +1,16 @@
+id,feature,x_mm,y_mm,z_from_pcb_bottom_mm,length_mm,width_mm,height_mm,evidence
+01CH_Red_HL_50p8x25p6,K1_SRD,25.0,13.0,1.6,15.5,19.1,15.3,datasheet relay body dimensions; module placement reconstructed
+01CH_Red_HL_50p8x25p6,J_OUT,43.1,13.0,1.6,9.5,15.24,10.8,footprint centers reconstructed; pitch nominal 5.08 mm
+01CH_Red_HL_50p8x25p6,J_OUT_screw1,43.1,7.92,12.4,3.4,3.4,0.35,approx screw-head envelope
+01CH_Red_HL_50p8x25p6,J_OUT_screw2,43.1,13.0,12.4,3.4,3.4,0.35,approx screw-head envelope
+01CH_Red_HL_50p8x25p6,J_OUT_screw3,43.1,18.08,12.4,3.4,3.4,0.35,approx screw-head envelope
+01CH_Red_HL_50p8x25p6,U1_SMD_opto,12.9,20.8,1.6,3.6,4.0,2.0,SMD optocoupler approximate package; reconstructed
+01CH_Red_HL_50p8x25p6,LED1,7.8,24.0,1.6,2.0,2.0,1.5,representative LED envelope; placement reconstructed
+01CH_Red_HL_50p8x25p6,R1,13.0,7.0,1.6,2.0,1.15,0.65,representative SMD envelope; placement reconstructed
+01CH_Red_HL_50p8x25p6,J_IN,6.2,13.0,1.6,9.5,15.24,10.8,footprint centers reconstructed; pitch nominal 5.08 mm
+01CH_Red_HL_50p8x25p6,J_IN_screw1,6.2,7.92,12.4,3.4,3.4,0.35,approx screw-head envelope
+01CH_Red_HL_50p8x25p6,J_IN_screw2,6.2,13.0,12.4,3.4,3.4,0.35,approx screw-head envelope
+01CH_Red_HL_50p8x25p6,J_IN_screw3,6.2,18.08,12.4,3.4,3.4,0.35,approx screw-head envelope
+01CH_Red_HL_50p8x25p6,JP_HL_insulator,13.0,3.0,1.6,2.54,5.08,2.5,reconstructed connector placement; 2.54 pitch is standard
+01CH_Red_HL_50p8x25p6,JP_HL_pin1,13.0,1.73,4.1,0.64,0.64,3.8,"2.54 mm pin pitch, header placement approximate"
+01CH_Red_HL_50p8x25p6,JP_HL_pin2,13.0,4.27,4.1,0.64,0.64,3.8,"2.54 mm pin pitch, header placement approximate"
